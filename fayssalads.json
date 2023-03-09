@@ -16,6 +16,7 @@
     
 
 "app_redirect":"yes",
+"redirect_package_name":"com.example.test",
 "start_backg_ads":"non",
 "background_ads_delay":"15",
 
@@ -26,6 +27,7 @@
 
 },
   "redirect_info":[
+  {"text":"text test from server","package_name":"com.test.test"},
   {"text":"text test from server","package_name":"com.test.test"}
  
    ]
