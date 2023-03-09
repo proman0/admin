@@ -26,7 +26,7 @@
 
 },
   "redirect_info":[
-  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
+  {"text":"text test from server","package_name":"com.test.test"}
  
    ]
 
