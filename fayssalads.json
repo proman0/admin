@@ -26,10 +26,10 @@
   
 
 },
-  "redirect_info":[
-  {"text":"text test from server","package_name":"com.test.test"},
-  {"text":"text test from server","package_name":"com.test.test"}
- 
+  "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":""},
+  {"name":"app name test from server","package_name":"com.test.test","icon":""},
+  {"name":"app name test from server","package_name":"com.test.test","icon":""}
    ]
 
 }
