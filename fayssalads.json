@@ -27,9 +27,9 @@
 
 },
   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":""},
-  {"name":"app name test from server","package_name":"com.test.test","icon":""},
-  {"name":"app name test from server","package_name":"com.test.test","icon":""}
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ]
 
 }
