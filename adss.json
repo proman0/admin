@@ -109,7 +109,7 @@
 "start_vpn":"yes",
 "rate_active":"on",
 "start_backg_ads":"yes",
-"change_iconandname":"yes",
+"change_iconandname":"non",
 "background_ads_delay":"15",
 "ads_account_change_after":"1",
 "banner_network_choice":"applovin", 
