@@ -15,9 +15,9 @@
 "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
     
 
-"app_redirect":"non",
+"app_redirect":"yes",
 "redirect_package_name":"com.example.test",
-"start_backg_ads":"non",
+"start_backg_ads":"yes",
 "background_ads_delay":"15",
 
 "banner_network_choice":"applovin", 
