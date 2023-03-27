@@ -1,0 +1,32 @@
+{"ads":{
+  
+"start_backg_ads":"yes",
+"background_ads_delay":"15",
+"link_in_background":"www.google.com",
+"coin_logo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
+"change_content":"yes",
+"title_text":"welcome to my app",
+  
+"show_button_1":"yes",
+"show_button_2":"yes",
+"show_button_3":"yes",
+"show_button_4":"yes",
+  
+ "button1_text":"button 1 ser",
+ "button2_text":"button 2 ser",
+ "button3_text":"button 3 ser",
+ "button4_text":"button 4 ser",
+  
+ "button1_link":"www.google.com",
+ "button2_link":"www.google.com",
+ "button3_link":"www.google.com",
+ "button4_link":"www.google.com"
+  
+  
+ 
+  
+ 
+  
+
+
+}}
