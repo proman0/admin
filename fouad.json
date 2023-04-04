@@ -12,8 +12,8 @@
 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 
 
-"banner_network_choice":"applovin", 
-"interstisial_network_choice":"applovin"
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob"
 
 }
 }
