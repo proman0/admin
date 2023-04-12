@@ -61,9 +61,9 @@
   
 "show_rate":"on",
 "show_interstitial_after":"2",
-"banner_network_choice":"inmobi", 
-"interstisial_network_choice":"inmobi", 
-"native_network_choice":"ironsource"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"native_network_choice":"yandex"
   
   
   
