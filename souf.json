@@ -39,7 +39,8 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser","photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc1":"description1 ser ",
+   "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
   {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
   {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
   {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
