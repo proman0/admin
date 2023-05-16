@@ -19,25 +19,7 @@
 "iron_appkey":"147d445d9",
 
 
-"app_logo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
-"app_name":"my app name",
-"welcome_text":"welcome to my app",
-  
- "first_activity_first_button_text":"help",
- "first_activity_second_button_text":"go",
- "dialog_title":"dialog title",
- "dialog_text":"dialog text test from server",
-  
- "second_activity_first_button_text":"first button",
- "second_activity_second_button_text":"second button",
-  
- "backup_activity_title":"progress activity",
- "backup_activity_text":"this is a text from server to backup activity",
-  
- "done_activity_title":"done activity title",
- "done_activity_text":"this is a text from server to done activity",
- "done_activity_button_text":"open",
-  
+
    "more_apps_info":[
   {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
   {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
