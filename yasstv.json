@@ -20,10 +20,32 @@
 
 
 
-   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   "matchs":[
+  {"link":"app name test from server",
+   "time":"18:00",
+   "watch_button_text":"watch",
+   "first_team":"Real Madrid",
+   "first_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png",
+   "second_team":"man city",
+   "second_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"
+  },
+  {"link":"app name test from server",
+   "time":"18:00",
+   "watch_button_text":"watch",
+   "first_team":"Real Madrid",
+   "first_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png",
+   "second_team":"man city",
+   "second_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"
+  },
+  {"link":"app name test from server",
+   "time":"18:00",
+   "watch_button_text":"watch",
+   "first_team":"Real Madrid",
+   "first_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png",
+   "second_team":"man city",
+   "second_team_icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"
+  }
+
    ],
 
 "banner_network_choice":"applovin", 
