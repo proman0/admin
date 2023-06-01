@@ -26,30 +26,49 @@
 
 
 
-"start_vpn":"yes",
+
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
-"native_network_choice":"admob",
+"native_network_choice":"admob"
   
   
-"ovpn_file":[
-  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
-   ]
+
 
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser",
+   "desc":"description1 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title2 ser",
+   "desc":"description2 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title3 ser",
+   "desc":"description3 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title4 ser",
+   "desc":"description4 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title5 ser",
+   "desc":"description5 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title6 ser",
+   "desc":"description6 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title7 ser",
+   "desc":"description7 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title8 ser",
+   "desc":"description8 ser",
+   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
