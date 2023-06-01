@@ -26,7 +26,8 @@
 
 
 
-
+"ads_picture":"",
+"ads_link":"",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
