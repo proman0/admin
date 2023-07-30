@@ -49,26 +49,26 @@
 
 },
  
- "skins":[
-  {"title":"skins title1 ser",
+ "wall":[
+  {"title":"584",
   "photo":"https://github.com/proman0/admin/blob/main/3713.jpg?raw=true"},
-  {"title":"skins title2 ser",
+  {"title":"214",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title3 ser",
+  {"title":"145",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title4 ser",
+  {"title":"7845",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title5 ser",
+  {"title":"1452",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title6 ser",
+  {"title":"210",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title7 ser",
+  {"title":"485",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title8 ser",
+  {"title":"5854",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
 
-   "maps":[
+   "catego":[
   {"title":"maps title1 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
   {"title":"maps title2 ser",
@@ -87,10 +87,7 @@
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
 
-   "bestmaps":[
-  {"title":"maps title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
-   ],
+ 
 
   
   "more_apps_info":[
