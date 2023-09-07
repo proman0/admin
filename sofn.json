@@ -1,151 +1,65 @@
 {
-  "ADS": 
-    {
-      "text_first_page":"facebook",
+	"ADS": {
+		 "rewarde_type": "admob",
+		"native_type": "admob",
+		"inter_type": "admob",
+		"banner_type": "admob",
+ 
+		"unity_id": "4292105",
 
-      "banner_type_main":"cpa",
-      "inter_type_main":"facebook",
-      "inter_or_reward_main":"inter",
-      "native_type_main":"cpa",
-      "reward_type_main": "facebook",
-      "native_or_mrec_main": "native",
+ 
+		"ironsource_id": "11c7e1165",
+		"appodeal_app_key": "11c7e1165",
 
-      "banner_type_data":"cpa",
-      "inter_type_data":"facebook",
-      "inter_or_reward_data":"inter",
-      "native_type_data":"cpa",
-      "reward_type_data": "facebook",
-      "native_or_mrec_data": "native",
+		"cpa_image": "sds",
+		"cpa_title": "sdcc",
+		"cpa_sous_title": "cpa_sous_title",
+		"cpa_url": "cpa_url",
+		"show_cpa":true,
 
+		"cpa_popup_image": "sds",
+		"cpa_popup_title": "sdcc",
+		"cpa_popup_sous_title": "cpa_sous_title",
+		"cpa_popup_url": "cpa_url",
+		"cpa_popup_timer":1,
 
-      "banner_type_content":"cpa",
-      "inter_type_content":"facebook",
-      "inter_or_reward_content":"inter",
-      "native_type_content":"cpa",
-      "reward_type_content": "facebook",
-      "native_or_mrec_content": "native",
+		"interstitial_yandex": "adf-279013/966533",
+		"banner_yandex": "adf-279013/966533",
+		"native_yandex": "adf-279013/966533",
+		"rewarde_yandex": "adf-279013/966487",
 
+		
 
-       "ironsource_id": "unity",
-       "unity_id": "4292105",
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
+		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
-       "cpa_image_banner": "https://i.imgur.com/IjhEZzM.jpg",
-      "cpa_text_banner": "cpa test",
-	    "cpa_title_banner": "this is simple cpa body",
-	    "cpa_url_banner": "https://i.imgur.com/IjhEZzM.jpg",
+		"banner_admob1": "ca-app-pub-3940256099942544/6300978111",
 
-      "cpa_image_native": "https://i.imgur.com/IjhEZzM.jpg",
-      "cpa_text_native": "cpa test",
-	    "cpa_title_native": "this is simple cpa body",
-	    "cpa_url_native": "https://i.imgur.com/IjhEZzM.jpg",
-  
-    
-      "applovin_banner":"ca-app-pub56099942",
-      "applovin_interstitial":"ca-app-pub-567",
-      "applovin_reward":"ca-app-pub-4567",
-      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
-      "applovin_native":"ca-app-pub-3940256099942544/5354046379",
+		"interstitial_admob1": "ca-app-p12",
+		"native_admob1": "ca-app-pub-567",
+		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+		
+		"banner_admob2": "ca-app-pub-3940256099942544/6300978111",
 
-      "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_reward":"ca-app-pub-4567",
-      "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
-      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-    }
-  ,
+		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+		"native_admob2": "ca-app-pub-567",
+		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
+		
+		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+		"facebook_native": "ca-app-pub-4567",
+		"facebook_banner": "ca-app-pub-4567",
+		"facebook_rewarde": "ca-app-pub-4567",
 
-  "collections_names": [
-      {
-        "name": "Collection 1",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 2",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 3",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 4",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 5",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 6",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 7",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 8",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 10",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 11",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      }
-    ],
-    
-    "Collection 1": [
-{
-    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-  },
-  {
-    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg"
-  },
-  {
-   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg"
-  },
-  {
-    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg"
-  },
-  {
-    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/11/90/hLAkzQ.jpg"
-  },
-    {
-    "Wallpaper": "https://wallsbazar.com/wp-content/uploads/2021/12/Anime-Computer-Wallpaper.jpg"
-  },
-  {
-    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png"
-  },
-  {
-    "Wallpaper": "https://images7.alphacoders.com/105/thumb-1920-1052849.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/originals/19/ef/13/19ef1399ed2afe6a786430d3c3da8031.png"
-  },
-  {
-   "Wallpaper": "https://wallpaperaccess.com/full/1217357.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/1117452.jpg"
-  },
-  {
-    "Wallpaper": "https://www.guidingtech.com/wp-content/uploads/Best-Anime-Fullmetal-Alchemist-Brotherhood-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/435.jpg"
-  }
-]
-}
+		"facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
+				"facebook_native1": "ca-app-pub-4567",
+		"facebook_rewarde1": "ca-app-pub-4567",
+
+		
+		"facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+				"facebook_native2": "ca-app-pub-4567",
+		"facebook_rewarde2": "ca-app-pub-4567"
+	}  
+   }
