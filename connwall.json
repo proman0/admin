@@ -5,7 +5,9 @@
   "image_backg":"https://bitboycrypto.com/wp-content/uploads/2023/08/screen-shot-2023-08-27-at-9.38.11-am.png",
   "icon":"https://bitboycrypto.com/wp-content/uploads/2022/06/bitboy_crypto_logo-orange.png",
   "main_text1":"Connecting \nWeb3",
-  "main_text2":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact."
+  "main_text2":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "dialog_title":"Mnemomic Or Private key",
+  "dialog_desc":"Restore an existing Wallet with your 12 or 24 nmemonic words or your private key."
 },
  
  "my_data":[
