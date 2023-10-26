@@ -23,8 +23,8 @@
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   "seconds_to_show_custom_ad": 30,
-  "show_custom_ad": "on",
-  "show_four_buttons": "on",
+  "show_custom_ad": "off",
+  "show_four_buttons": "off",
   
   "first_screen_text": "first screen text",
   "second_screen_text": "second screen text",
