@@ -25,9 +25,9 @@
   "seconds_to_show_custom_ad": 30,
   "show_custom_ad": "off",
 
-  "show_first_button": "off",
+  "show_first_button": "on",
   "show_second_button":"off",
-  "show_third_button": "off",
+  "show_third_button": "on",
   "show_fourth_button":"off",
 
   
