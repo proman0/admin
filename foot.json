@@ -30,7 +30,7 @@
         "ShowCricketSCoresWarning": false,
         "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
         "OnesignalID": "xxxxx",
-        "ShowUpdate": true,
+        "ShowUpdate": false,
         "UpdateVersion": 2,
         "UpdateLink": "https://play.google.com/store/apps/details?id=com.livefootballtv.allfootball_livetvhd2023"
     }
