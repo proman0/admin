@@ -26,9 +26,9 @@
   "show_custom_ad": "off",
 
   "show_first_button": "on",
-  "show_second_button":"off",
+  "show_second_button":"on",
   "show_third_button": "on",
-  "show_fourth_button":"off",
+  "show_fourth_button":"on",
 
   
   "first_screen_text": "first screen text",
