@@ -5,7 +5,7 @@
     "ClickCount":1,
     "PriorityBanner":"iron",
     "priorityInterstitial":"iron",
-    "PriorityNative":"iron",
+    "PriorityNative":"max",
     "PriorityReward":"iron",
     "IronAppKey":"85460dcd",
     "IronBanner":"DefaultBanner",
