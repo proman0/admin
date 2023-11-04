@@ -26,11 +26,7 @@
     "FanNative":""
   },
   "ControlApp":{
-    "ShowFootballScoresWarning":false,
-    "ShowCricketSCoresWarning":false,
-    "PlayerPackageName":"com.gpt.ysfplayer",
-    "OnesignalID":"",
-  "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
+ "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
  "app_redirect":"yes",
 "redirect_package_name":"com.example.test"
     
