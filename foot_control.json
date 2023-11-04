@@ -10,7 +10,7 @@
     "IronAppKey":"85460dcd",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
-    "IronReward":"",
+    "IronReward":"DefaultReward",
     "TopOnAppKey":"xxxxxxxx",
     "TopOnAppID":"xxxxxxxx",
     "TopOnBanner":"xxxxxxxx",
