@@ -6,10 +6,14 @@
         "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
        
        
-
+    
     "ShowAds":true,
     "ShowLoadingAds":true,
     "ClickCount":1,
+
+     "show_captcha":false,
+     "show_gender":true,
+     
     "PriorityBanner":"admob",
     "priorityInterstitial":"admob",
     "PriorityNative":"admob",
@@ -25,6 +29,10 @@
     "FanBanner":"",
     "FanInterstitial":"",
     "FanNative":""
+
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110"
   
   },
 
