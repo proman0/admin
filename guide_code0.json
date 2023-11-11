@@ -10,6 +10,7 @@
     "ShowAds":true,
     "ShowLoadingAds":true,
     "ClickCount":1,
+    "update_packagename":"",
     
 
      "show_captcha":false,
