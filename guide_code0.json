@@ -13,7 +13,7 @@
     "update_packagename":"",
     
 
-     "show_captcha":false,
+     "show_captcha":true,
      "show_gender":true,
      
     "PriorityBanner":"admob",
