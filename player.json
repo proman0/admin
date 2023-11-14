@@ -1,0 +1,40 @@
+{
+   "PlayerAds":{
+    "ShowAds":true,
+    "ShowLoadingAds":true,
+    "ClickCount":1,
+    "PlayerAds":"reward",
+    "PriorityBanner":"max",
+    "PriorityReward":"max",
+    "priorityInterstitial":"max",
+    "PriorityNative":"max",
+    "IronAppKey":"xxxxxxxx",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"",
+    "AdmobInterstitial":"",
+    "AdmobReward":"",
+    "MaxBanner":"xxxxxxxx",
+    "MaxInterstitial":"xxxxxxxx",
+    "MaxNative":"xxxxxxxx",
+    "MaxReward":"",
+    "FanBanner":"",
+    "FanNative":"",
+    "FanInterstitial":""
+  },
+  "ControlApp":{
+    "OnesignalID":"",
+    "ShowUpdate":true,
+    "UpdateVersion":1,
+    "UpdateLink":"https://google.com",
+     "UseCpa":true,
+     "UseGenerator":true,
+    "CpaCode":"",
+    "CpaLink":"",
+    "ShowCpaAfter_InSecond":20,
+    "GeneratorLink":"",
+    "GeneratorCode":"",
+    "ShowGeneratorAfter":5
+    
+    }
+}
