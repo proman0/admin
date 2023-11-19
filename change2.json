@@ -32,8 +32,7 @@
   
   "onesignal_id": "",
 
-  "web_btn_1_text": "Open Web One",
-  "web_btn_2_text": "Open Web Two",
+
 
   "force_ate": false,
   
@@ -87,132 +86,7 @@
 	}
   ],
 
-  "web_1": [
-    {
-      "title": "web_1 - Site 1",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 2",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 3",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 4",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_1 - Site 5",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 6",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_1 - Site 7",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 8",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_1 - Site 9",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_1 - Site 10",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	}
-  ],
 
-  "web_2": [
-    {
-      "title": "web_2 - Site 1",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 2",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 3",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_2 - Site 4",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 5",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 6",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_2 - Site 7",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 8",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": true
-	},
-    {
-      "title": "web_2 - Site 9",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	},
-    {
-      "title": "web_2 - Site 10",
-      "url": "https://www.geeksforgeeks.org",
-      "is_active": false
-	}
-  ],
-
-  "image_ideas": [
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png",
-    "https://cdn-icons-png.flaticon.com/512/1384/1384886.png"
-  ],
 
   "customNativeAdList": [
     {
