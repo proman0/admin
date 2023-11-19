@@ -51,38 +51,37 @@
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 0",
-	 "sub_title": "Get 50% Off",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "sub_title": "Get 50% Off"
+	
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 1",
-	 "sub_title": "Up To 70% Off",
-	 "go_to": ""
+	 "sub_title": "Up To 70% Off"
+	
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 2",
-	 "sub_title": "One Week For Free",
-	 "go_to": ""
+	 "sub_title": "One Week For Free"
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 3",
-	 "sub_title": "Up To 50% Off",
-	 "go_to": ""
+	 "sub_title": "Up To 50% Off"
+	 
 	},
 	{
  	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 4",
-	 "sub_title": "10$ Less",
-	 "go_to": ""
+	 "sub_title": "10$ Less"
+	
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 5",
-	 "sub_title": "Get 20% Off",
-	 "go_to": ""
+	 "sub_title": "Get 20% Off"
+	 
 	}
   ],
 
