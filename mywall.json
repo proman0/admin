@@ -1,0 +1,51 @@
+{"ads":{
+  
+  "show_dialog":"yes",
+  "button_text":"start",
+  "image_backg":"https://bitboycrypto.com/wp-content/uploads/2023/08/screen-shot-2023-08-27-at-9.38.11-am.png",
+  "icon":"https://bitboycrypto.com/wp-content/uploads/2022/06/bitboy_crypto_logo-orange.png",
+  "main_text1":"Liquid \nVault",
+  "main_text2":"Connect the Liquid Vault to any external Dapp with Wallet Connect capabilities",
+  "dialog_title":"Mnemomic Or Private key",
+
+  "dialog_desc":"Restore an existing Wallet with your 12 or 24 nmemonic words or your private key."
+},
+ 
+ "my_data":[
+  {"title":"asset 1",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7F0jK5EXc8nVxr9X1ijcNAgxuYBWb3siHw&usqp=CAU"},
+  {"title":"asset 2",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 3",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 4",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 5",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 6",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 7",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"},
+  {"title":"asset 8",
+  "download_num":"The commmunications protocol for Web3, BitBoy Crypto brings the ecosystem together by enabling wallets and apps to securely connect and interact.",
+  "visite_num":"2141",
+  "photo":"https://www.lifespan.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/Bitboy.jpg.webp"}
+   ]
+  
+
+}
+   
