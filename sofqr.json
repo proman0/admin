@@ -12,6 +12,7 @@
 "yandex_inter":"demo-interstitial-yandex",
 "yandex_native":"demo-native-content-yandex",
 "yandex_reward":"demo-rewarded-yandex",
+    "yandex_open":"demo-appopenad-yandex",
   
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
