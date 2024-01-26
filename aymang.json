@@ -1,0 +1,195 @@
+{
+  "AppRedirect": {
+    "status"      : false,
+    "redirectUrl" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "runAds"                     : true,
+      
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
+    
+    "IntervalClick"              : 1,
+    
+    "AdMob_Banner"               : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"       : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"               : "ca-app-pub-3940256099942544/2247696110",
+   
+    "Facebook_Banner"            : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd"    : "692961278482629_692963491815741",
+    "Facebook_Native"            : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"            : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd"    : "d5a67a7b679c9a38",
+    "Applovin_Native"            : "a5f235ba1320fb35"
+    
+  },
+  
+  "HouseAdSettings":{
+      "popStatus"      : true,
+      "popTimerSecond" : 10,
+      
+      "nativeStatus"   : true,
+      "adTitle"        : "Epic Brawl - Battle Royale",
+      "adPreview"      : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+      "adAction"       : "https://play.google.com/store/apps/details?id=com.appon.epicbrawl"
+      
+  },
+  
+  "ControlActivity": {
+      
+    "GenderActivity": true,
+    
+    "CaptchaActivity": true,
+    
+    "FirstInfoActivity": {
+      "status": true,
+      "text": "Switch Button in Android is a UI element that is used to switch between two states upon click. It can be assumed as a Boolean button with two different values. Some states where you may find a Switch in your Android device"
+    },
+    
+    "SecondInfoActivity": {
+      "status": true,
+      "text": "try upgrading the Android Studio to the latest version. We demonstrated the application in Kotlin, so make sure you select Kotlin as the primary language while creating a New Project."
+    }
+  },
+
+  "FirstButtonControl": {
+    "status": true,
+    "title": "Coupons",
+    "list": [
+      {
+        "title": "Ayman Promo",
+        "description": "up to 70% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Amazon Gift",
+        "description": "up to 50% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Google",
+        "description": "up to 20% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Aliexpress",
+        "description": "up to 80% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Walmart",
+        "description": "up to 90% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Netflix",
+        "description": "up to 70% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Illustrator",
+        "description": "up to 90% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ai.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Photoshop",
+        "description": "up to 30% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ps.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Alibaba",
+        "description": "up to 20% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/alibaba.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Unity",
+        "description": "up to 30% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      }
+    ]
+  },
+
+  "SecondButtonControl": {
+    "status": true,
+    "title": "Image Ideas",
+    "list": [
+      {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
+        "url": "https://medium.com/enkronos/5-step-android-app-development-guide-for-beginners-e6d89c0b8ef6",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
+        "url": "",
+        "status": false
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
+        "url": "",
+        "status": true
+      }
+    ]
+  },
+
+  "ThirdButtonControl": {
+    "status": true,
+    "title": "Online Category",
+    "list": [
+      {
+        "title": "Button 3 url 1",
+        "image": "",
+        "url": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "status": true
+      }
+    ]
+  },
+
+  "FourthButtonControl": {
+    "status": true,
+    "title": "Online Coupons",
+    "list": [
+      {
+        "title": "Button 4 url 1",
+        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "url": "",
+        "status": true
+      }
+    ]
+  }
+
+}
