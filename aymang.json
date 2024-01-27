@@ -11,7 +11,7 @@
       
     "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
+    "NativeNetwork"              : "applovin",
     
     "IntervalClick"              : 1,
     
