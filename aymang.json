@@ -31,7 +31,7 @@
   
   "HouseAdSettings":{
       "popStatus"      : true,
-      "popTimerSecond" : 10,
+      "popTimerSecond" : 1,
       
       "nativeStatus"   : true,
       "adTitle"        : "Epic Brawl - Battle Royale",
