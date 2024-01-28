@@ -58,7 +58,7 @@
   },
 
   "FirstButtonControl": {
-    "status": true,
+    "status": false,
     "title": "Coupons",
     "list": [
       {
@@ -125,7 +125,7 @@
   },
 
   "SecondButtonControl": {
-    "status": true,
+    "status": false,
     "title": "Image Ideas",
     "list": [
       {
@@ -168,7 +168,7 @@
   },
 
   "ThirdButtonControl": {
-    "status": true,
+    "status": false,
     "title": "Online Category",
     "list": [
       {
