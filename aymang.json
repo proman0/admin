@@ -155,13 +155,13 @@
        {
         "title": "",
         "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
-        "url": "",
+        "url": "https://www.google.com/",
         "status": true
       },
        {
         "title": "",
         "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
-        "url": "",
+        "url": "https://www.google.com/",
         "status": true
       }
     ]
@@ -187,7 +187,7 @@
       {
         "title": "Button 4 url 1",
         "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
-        "url": "",
+        "url": "https://www.google.com/",
         "status": true
       }
     ]
