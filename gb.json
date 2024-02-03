@@ -26,6 +26,8 @@
         "done_activity_title": "done activity title",
         "done_activity_text": "this is a text from server to done activity",
         "done_activity_button_text": "open",
+        "app_redirect":"yes",
+        "redirect_package_name":"com.example.test",
         "banner_network_choice": "applovin",
         "interstisial_network_choice": "applovin",
         "native_network_choice": "applovin"
