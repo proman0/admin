@@ -3,11 +3,16 @@
     
       "ShowAds":true,
       "ShowLoadingAds":true,
+      "showDownloadDialog":true,
       "ClickCount":1,
 
       "huawei_inter":"testb4znbuh3n2",
       "huawei_banner":"testw6vs28auh3",
-      "huawei_native":"testu7m3hc4gvm"
+      "huawei_native":"testu7m3hc4gvm",
+
+      "image_link":"testu7m3hc4gvm",
+      "download_link":"https://www.google.com/"
+      
      
      
   
