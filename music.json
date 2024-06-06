@@ -1,27 +1,34 @@
 {
-   "ads":{
-    
-      "ShowAds":true,
-      "ShowLoadingAds":true,
-      "showDownloadDialog":true,
-      "ClickCount":1,
-
-      "huawei_inter":"testb4znbuh3n2",
-      "huawei_banner":"testw6vs28auh3",
-      "huawei_native":"testu7m3hc4gvm",
-
-      "image_link":"https://github.com/proman0/admin/blob/main/renard.png?raw=true",
-      "download_link":"https://www.google.com/",
-      
-     "start_vpn":"yes"
-
-},
-  "ovpn_file":[
-  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
-  
-   ]
-     
-  
+  "ads": {
+    "ShowAds": true,
+    "ShowLoadingAds": true,
+    "showDownloadDialog": true,
+    "ClickCount": 1,
+    "huawei_inter": "testb4znbuh3n2",
+    "huawei_banner": "testw6vs28auh3",
+    "huawei_native": "testu7m3hc4gvm",
+    "image_link": "https://github.com/proman0/admin/blob/main/renard.png?raw=true",
+    "download_link": "https://www.google.com/",
+    "start_vpn": true
+  },
+  "ovpn_file": [
+    {
+      "country": "fr",
+      "file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn",
+      "username": "gGsTnPQCwNqJ5b5z",
+      "password": "a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"
+    },
+    {
+      "country": "fr1",
+      "file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn",
+      "username": "gGsTnPQCwNqJ5b5z",
+      "password": "a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"
+    },
+    {
+      "country": "fr2",
+      "file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn",
+      "username": "gGsTnPQCwNqJ5b5z",
+      "password": "a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"
+    }
+  ]
 }
