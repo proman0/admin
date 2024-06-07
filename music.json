@@ -19,14 +19,14 @@
       "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
     },
     {
-      "country": "us2",
-      "file": "https://raw.githubusercontent.com/proman0/admin/main/us.ovpn",
+      "country": "jp",
+      "file": "https://raw.githubusercontent.com/proman0/admin/main/jp.ovpn",
       "username": "WYZWMu5xAdgydnEN",
       "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
     },
     {
-      "country": "us3",
-      "file": "https://raw.githubusercontent.com/proman0/admin/main/us.ovpn",
+      "country": "nl",
+      "file": "https://raw.githubusercontent.com/proman0/admin/main/nl.ovpn",
       "username": "WYZWMu5xAdgydnEN",
       "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
     }
