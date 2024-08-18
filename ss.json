@@ -16,6 +16,7 @@
      "yandex_inter": "demo-interstitial-yandex",
      "yandex_native": "demo-native-app-yandex",
     "yandex_reward":"demo-rewarded-yandex",
+    "openadyandex":"demo-appopenad-yandex",
 
     
     "priorityInterstitial": "yandex",
