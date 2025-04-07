@@ -1,0 +1,28 @@
+{
+    "credentials": {
+        "username": "ovp_username",
+        "password": "ovp_password"
+    },
+    "servers": [
+        {
+            "name": "Auto Select",
+            "flag_icon": "ic_auto_select",
+            "ovpn_file": "us1.ovpn"
+        },
+        {
+            "name": "USA 1",
+            "flag_icon": "flag_usa",
+            "ovpn_file": "us.ovpn"
+        },
+        {
+            "name": "USA 2",
+            "flag_icon": "flag_usa",
+            "ovpn_file": "us2.ovpn"
+        },
+        {
+            "name": "UK",
+            "flag_icon": "flag_uk",
+            "ovpn_file": "uk1.ovpn"
+        }
+    ]
+}
