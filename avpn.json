@@ -1,28 +1,33 @@
 {
     "credentials": {
-        "username": "ovp_username",
-        "password": "ovp_password"
+        "username": "ncpnazih1984@namecheap",
+        "password": "PbzlcEnJrT"
     },
     "servers": [
         {
-            "name": "Auto Select",
-            "flag_icon": "ic_auto_select",
-            "ovpn_file": "us1.ovpn"
+            "name": "Emirates",
+            "flag_icon": "ae",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
         },
         {
-            "name": "USA 1",
-            "flag_icon": "flag_usa",
-            "ovpn_file": "us.ovpn"
+            "name": "Deutschland",
+            "flag_icon": "de",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
         },
         {
-            "name": "USA 2",
-            "flag_icon": "flag_usa",
-            "ovpn_file": "us2.ovpn"
+            "name": "Saudi Arabia",
+            "flag_icon": "sa",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
         },
         {
-            "name": "UK",
-            "flag_icon": "flag_uk",
-            "ovpn_file": "uk1.ovpn"
+            "name": "united-states",
+            "flag_icon": "us",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+        },
+        {
+            "name": "United Kingdom",
+            "flag_icon": "gb",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
         }
     ]
 }
