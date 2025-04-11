@@ -1,0 +1,12 @@
+{
+  "title": "Daily Reminder",
+  "message": "Don't forget to update your app",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png",
+  "button_text": "Update Now",
+
+  "button_links": [
+    "https://www.google.com",
+    "https://www.github.com",
+    "https://www.stackoverflow.com"
+  ]
+}
