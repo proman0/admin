@@ -129,6 +129,22 @@
         "https://example.com/images/objects/object9.jpg",
         "https://example.com/images/objects/object10.jpg"
       ]
+    },
+    {
+      "name": "pro",
+      "displayName": "pro",
+      "images": [
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/cutepanda.png",
+        "https://example.com/images/objects/object2.jpg",
+        "https://example.com/images/objects/object3.jpg",
+        "https://example.com/images/objects/object4.jpg",
+        "https://example.com/images/objects/object5.jpg",
+        "https://example.com/images/objects/object6.jpg",
+        "https://example.com/images/objects/object7.jpg",
+        "https://example.com/images/objects/object8.jpg",
+        "https://example.com/images/objects/object9.jpg",
+        "https://example.com/images/objects/object10.jpg"
+      ]
     }
   ]
 }
