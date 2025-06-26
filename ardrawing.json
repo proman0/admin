@@ -1,0 +1,134 @@
+{
+  "status": "success",
+  "message": "Categories loaded successfully",
+  "categories": [
+    {
+      "name": "anime",
+      "displayName": "Anime",
+      "images": [
+        "https://example.com/images/anime/anime1.jpg",
+        "https://example.com/images/anime/anime2.jpg",
+        "https://example.com/images/anime/anime3.jpg",
+        "https://example.com/images/anime/anime4.jpg",
+        "https://example.com/images/anime/anime5.jpg",
+        "https://example.com/images/anime/anime6.jpg",
+        "https://example.com/images/anime/anime7.jpg",
+        "https://example.com/images/anime/anime8.jpg",
+        "https://example.com/images/anime/anime9.jpg",
+        "https://example.com/images/anime/anime10.jpg"
+      ]
+    },
+    {
+      "name": "people",
+      "displayName": "People",
+      "images": [
+        "https://example.com/images/people/person1.jpg",
+        "https://example.com/images/people/person2.jpg",
+        "https://example.com/images/people/person3.jpg",
+        "https://example.com/images/people/person4.jpg",
+        "https://example.com/images/people/person5.jpg",
+        "https://example.com/images/people/person6.jpg",
+        "https://example.com/images/people/person7.jpg",
+        "https://example.com/images/people/person8.jpg",
+        "https://example.com/images/people/person9.jpg",
+        "https://example.com/images/people/person10.jpg"
+      ]
+    },
+    {
+      "name": "anatomy",
+      "displayName": "Anatomy",
+      "images": [
+        "https://example.com/images/anatomy/anatomy1.jpg",
+        "https://example.com/images/anatomy/anatomy2.jpg",
+        "https://example.com/images/anatomy/anatomy3.jpg",
+        "https://example.com/images/anatomy/anatomy4.jpg",
+        "https://example.com/images/anatomy/anatomy5.jpg",
+        "https://example.com/images/anatomy/anatomy6.jpg",
+        "https://example.com/images/anatomy/anatomy7.jpg",
+        "https://example.com/images/anatomy/anatomy8.jpg",
+        "https://example.com/images/anatomy/anatomy9.jpg",
+        "https://example.com/images/anatomy/anatomy10.jpg"
+      ]
+    },
+    {
+      "name": "animals",
+      "displayName": "Animals",
+      "images": [
+        "https://example.com/images/animals/animal1.jpg",
+        "https://example.com/images/animals/animal2.jpg",
+        "https://example.com/images/animals/animal3.jpg",
+        "https://example.com/images/animals/animal4.jpg",
+        "https://example.com/images/animals/animal5.jpg",
+        "https://example.com/images/animals/animal6.jpg",
+        "https://example.com/images/animals/animal7.jpg",
+        "https://example.com/images/animals/animal8.jpg",
+        "https://example.com/images/animals/animal9.jpg",
+        "https://example.com/images/animals/animal10.jpg"
+      ]
+    },
+    {
+      "name": "forkids",
+      "displayName": "For Kids",
+      "images": [
+        "https://example.com/images/forkids/kid1.jpg",
+        "https://example.com/images/forkids/kid2.jpg",
+        "https://example.com/images/forkids/kid3.jpg",
+        "https://example.com/images/forkids/kid4.jpg",
+        "https://example.com/images/forkids/kid5.jpg",
+        "https://example.com/images/forkids/kid6.jpg",
+        "https://example.com/images/forkids/kid7.jpg",
+        "https://example.com/images/forkids/kid8.jpg",
+        "https://example.com/images/forkids/kid9.jpg",
+        "https://example.com/images/forkids/kid10.jpg"
+      ]
+    },
+    {
+      "name": "cars",
+      "displayName": "Cars",
+      "images": [
+        "https://example.com/images/cars/car1.jpg",
+        "https://example.com/images/cars/car2.jpg",
+        "https://example.com/images/cars/car3.jpg",
+        "https://example.com/images/cars/car4.jpg",
+        "https://example.com/images/cars/car5.jpg",
+        "https://example.com/images/cars/car6.jpg",
+        "https://example.com/images/cars/car7.jpg",
+        "https://example.com/images/cars/car8.jpg",
+        "https://example.com/images/cars/car9.jpg",
+        "https://example.com/images/cars/car10.jpg"
+      ]
+    },
+    {
+      "name": "nature",
+      "displayName": "Nature",
+      "images": [
+        "https://example.com/images/nature/nature1.jpg",
+        "https://example.com/images/nature/nature2.jpg",
+        "https://example.com/images/nature/nature3.jpg",
+        "https://example.com/images/nature/nature4.jpg",
+        "https://example.com/images/nature/nature5.jpg",
+        "https://example.com/images/nature/nature6.jpg",
+        "https://example.com/images/nature/nature7.jpg",
+        "https://example.com/images/nature/nature8.jpg",
+        "https://example.com/images/nature/nature9.jpg",
+        "https://example.com/images/nature/nature10.jpg"
+      ]
+    },
+    {
+      "name": "objects",
+      "displayName": "Objects",
+      "images": [
+        "https://example.com/images/objects/object1.jpg",
+        "https://example.com/images/objects/object2.jpg",
+        "https://example.com/images/objects/object3.jpg",
+        "https://example.com/images/objects/object4.jpg",
+        "https://example.com/images/objects/object5.jpg",
+        "https://example.com/images/objects/object6.jpg",
+        "https://example.com/images/objects/object7.jpg",
+        "https://example.com/images/objects/object8.jpg",
+        "https://example.com/images/objects/object9.jpg",
+        "https://example.com/images/objects/object10.jpg"
+      ]
+    }
+  ]
+}
