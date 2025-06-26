@@ -6,8 +6,8 @@
       "name": "anime",
       "displayName": "Anime",
       "images": [
-        "https://example.com/images/anime/anime1.jpg",
-        "https://example.com/images/anime/anime2.jpg",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/cutepanda.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/anim.png",
         "https://example.com/images/anime/anime3.jpg",
         "https://example.com/images/anime/anime4.jpg",
         "https://example.com/images/anime/anime5.jpg",
@@ -22,7 +22,7 @@
       "name": "people",
       "displayName": "People",
       "images": [
-        "https://example.com/images/people/person1.jpg",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/anim.png",
         "https://example.com/images/people/person2.jpg",
         "https://example.com/images/people/person3.jpg",
         "https://example.com/images/people/person4.jpg",
