@@ -3,11 +3,11 @@
   "message": "Categories loaded successfully",
   "categories": [
     {
-      "name": "anime",
-      "displayName": "Anime",
+      "name": "Naruto",
+      "displayName": "Naruto",
       "images": [
-        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/cutepanda.png",
-        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/anim.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/naruto1.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/naruto2.png",
         "https://example.com/images/anime/anime3.jpg",
         "https://example.com/images/anime/anime4.jpg",
         "https://example.com/images/anime/anime5.jpg",
