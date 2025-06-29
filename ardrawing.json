@@ -6,37 +6,25 @@
       "name": "Naruto",
       "displayName": "Naruto",
       "images": [
-        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/naruto1.jpg",
-        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/naruto2.jpg",
-        "https://example.com/images/anime/anime3.jpg",
-        "https://example.com/images/anime/anime4.jpg",
-        "https://example.com/images/anime/anime5.jpg",
-        "https://example.com/images/anime/anime6.jpg",
-        "https://example.com/images/anime/anime7.jpg",
-        "https://example.com/images/anime/anime8.jpg",
-        "https://example.com/images/anime/anime9.jpg",
-        "https://example.com/images/anime/anime10.jpg"
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub2.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub3.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub4.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub5.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/narub5.png"
       ]
     },
     {
-      "name": "people",
-      "displayName": "People",
+      "name": "Hunter x Hunter",
+      "displayName": "Hunter x Hunter",
       "images": [
-        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/anim.png",
-        "https://example.com/images/people/person2.jpg",
-        "https://example.com/images/people/person3.jpg",
-        "https://example.com/images/people/person4.jpg",
-        "https://example.com/images/people/person5.jpg",
-        "https://example.com/images/people/person6.jpg",
-        "https://example.com/images/people/person7.jpg",
-        "https://example.com/images/people/person8.jpg",
-        "https://example.com/images/people/person9.jpg",
-        "https://example.com/images/people/person10.jpg"
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/hunterb.png",
+        "https://raw.githubusercontent.com/proman0/admin/refs/heads/main/hunterb.png"
       ]
     },
     {
-      "name": "anatomy",
-      "displayName": "Anatomy",
+      "name": "Dragon Ball Z",
+      "displayName": "Dragon Ball Z",
       "images": [
         "https://example.com/images/anatomy/anatomy1.jpg",
         "https://example.com/images/anatomy/anatomy2.jpg",
