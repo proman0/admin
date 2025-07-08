@@ -1,0 +1,19 @@
+{
+  "ads": {
+    "ShowAds": true,
+    "ClickCount": 1,
+    "ShowLoadingAds": true,
+    
+    "DEFAULT_COINS": 50,
+    "OWNED_COINS_FOR_REWARD_WATCH": 5,
+    "IMAGE_GENERATION_COST": 10,
+
+    "number_of_sessions_to_show": 1,
+    "number_of_stars_to_rate": "4f",
+    
+    "huawei_inter": "teste9ih9j0rc3",
+    "huawei_banner": "testw6vs28auh3", 
+    "huawei_native": "testy63txaom86",
+    "huawei_reward": "testb4znbuh3n2"
+  }
+}
