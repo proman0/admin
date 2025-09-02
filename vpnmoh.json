@@ -1,0 +1,98 @@
+{
+ 
+ 
+
+    "VpnController": {
+
+    "VpnUserName": "ncpnazih1984@namecheap",
+    "VpnPassword": "PbzlcEnJrT",
+    "VpnList": [
+      {
+        "vpnName"  : "Emirates",
+        "vpnLocked": false,
+        "vpnIso"   : "ae",
+        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+      },
+
+      {
+        "vpnName"  : "Australia-Sydney",
+        "vpnLocked": false,
+        "vpnIso"   : "au",
+        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AU-Sydney-TCP.ovpn"
+      },
+
+      {
+        "vpnName": "Australia-Adelaide",
+        "vpnLocked": false,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Adelaide-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Brisbane",
+        "vpnLocked": false,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Brisbane-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Melbourne",
+        "vpnLocked": true,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Melbourne-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Perth",
+        "vpnLocked": true,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Perth-TCP.ovpn"
+      },
+      {
+        "vpnName": "Canada-Montreal",
+        "vpnLocked": true,
+        "vpnIso": "ca",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Montreal-TCP.ovpn"
+      },
+      {
+        "vpnName": "Canada-Toronto",
+        "vpnLocked": true,
+        "vpnIso": "ca",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Toronto-TCP.ovpn"
+      },
+      {
+        "vpnName": "Deutschland",
+        "vpnLocked": true,
+        "vpnIso": "de",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
+      },
+      {
+        "vpnName": "Saudi Arabia",
+        "vpnLocked": true,
+        "vpnIso": "sa",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnLocked": true,
+        "vpnIso": "gb",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states-Atlanta",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states-Boston",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
+      }
+    ]
+  }
+}
